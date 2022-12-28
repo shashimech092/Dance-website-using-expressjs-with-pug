@@ -23,7 +23,7 @@ height: 42px;
 
 
 #navbar{
-    background-color: #d43b3b;
+    background-color: #c91ff8;
     padding: 18px 14px;
     font-family: 'Yeon Sung' ;
 }
@@ -71,7 +71,7 @@ height: 42px;
 
 #missionSection{
     height: 326px;; 
-    width: 67%;
+    width: 83%;
     margin: auto;
     
 }
@@ -87,7 +87,7 @@ height: 42px;
     display: inline-block;
     border: 2px solid black;
     border-radius: 10px;
-    width: 30%;
+    width: 28%;
     margin: 23px 20px;
     height: 209px;
 }
@@ -122,7 +122,7 @@ height: 42px;
     font-size: 19px;
 }
 #sponsorsSection{
-    height: 300px;
+    height: 200px;
     background-color: #fbd6d6c7;
     
 }
@@ -136,6 +136,22 @@ height: 42px;
 
 #footer{
     background-color: black;
-    height: 100px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    padding: 10px;
 
 }
+
+#sponsors{
+    display: flex;
+    height: 120px;
+    max-width: 550px;
+    margin: auto; 
+    
+}
+
+
+
+
+   
